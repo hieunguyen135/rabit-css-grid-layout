@@ -1,0 +1,29 @@
+{
+  "name": "rabit-css-grid-layout",
+  "version": "1.0.0",
+  "description": "Project built with CSS Grid layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunguyen135/rabit-css-grid-layout.git"
+  },
+  "author": "trunghieu.nth@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunguyen135/rabit-css-grid-layout/issues"
+  },
+  "homepage": "https://github.com/hieunguyen135/rabit-css-grid-layout#readme",
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1",
+    "gulp-inject-svg": "^0.1.16",
+    "gulp-postcss": "^7.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "tailwindcss": "^0.4.0"
+  }
+}
